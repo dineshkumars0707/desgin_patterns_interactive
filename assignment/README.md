@@ -234,3 +234,5 @@ Before moving to the next problem, confirm:
 - [ ] `Main.java` compiles and produces the same output as before.
 - [ ] No new `if-else` on type strings was introduced.
 - [ ] The solution is open for extension (adding a new variant requires only a new class).
+
+
